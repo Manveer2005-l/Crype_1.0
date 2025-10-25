@@ -1,10 +1,12 @@
 ## CryPe 1.0 — Cryptocurrency Price Prediction (Time-Series Forecasting)
 
-CryPe 1.0 is the foundation stage of an intelligent crypto-forecasting system designed to predict cryptocurrency price movements using deep learning–based time-series models.Currently it is a base model that applies deep leanring models like XGBoost ,LSTM and pretrained model N-BEATS to historical market data enhanced with engineered features such as moving averages and volatility indicators, achieving robust short-term predictive accuracy.
+CryPe 1.0 is the foundation stage of an intelligent crypto-forecasting system designed to predict cryptocurrency price movements using deep learning–based time-series models.Currently it is a base model that applies deep leanring models like XGBoost ,LSTM and pretrained model N-BEATS to historical market data enhanced with engineered features such as moving averages and volatility indicators, achieving robust short-term predictive accuracy. The name Crype comes from two words Crypto and prediction , as it started as a crypto predicitng tool i wanted for myself , but later on after improvising the vision i decided to implement in other sectors as well. The indicators that have been used in the project are the ones i use for the technical analysis of stock market 
 
 ## Features
 
 Built multivariate datasets including returns, SMA, and volatility
+
+Using crucial indicators like MACD , Bolinger Bands , SMA , OBV , Relative Strength index that depicts real time analysis
 
 Implemented sequence generation for sliding-window forecasting
 
