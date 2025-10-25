@@ -63,5 +63,7 @@ Data Scientist | Machine Learning & AI Enthusiast
 mssandhuu05@gmail.com
 
 
-
+git clone https://github.com/manveersingh1048/CryPe-1.0.git
+cd CryPe-1.0
+pip install -r requirements.txt
 
