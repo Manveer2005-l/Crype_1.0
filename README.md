@@ -36,20 +36,25 @@ IDE: VS Code / Jupyter Notebook
 
 MAPE: 4.70 %
 
+RMSE: Low deviation between predictions and actuals
+
+Models effectively captured reversal and recovery phases in crypto trends
+
 ## Roadmap
 Version	Focus	Description
+
 CryPe 2.0	: NLP & Sentiment Analysis	Integrate financial-news and social-media sentiment features for improved predictive context
+
 CryPe 3.0	: Computer Vision Analytics	Add CNN-based stock-chart pattern recognition and visual trend detection
+
 CryPe Final	: AI Market Intelligence Platform	Unified system that evaluates undervalued assets, analyzes industry reports, and predicts macro-economic shifts
 
 
 Author
 Manveer Singh
 Data Scientist | Machine Learning & AI Enthusiast
-📧 mssandhuu05@gmail.com
+mssandhuu05@gmail.com
 
 
 
-RMSE: Low deviation between predictions and actuals
 
-Models effectively captured reversal and recovery phases in crypto trends
